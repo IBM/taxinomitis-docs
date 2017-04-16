@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+# Nothing to see here... yet
 
-You can use the [editor on GitHub](https://github.com/dalelane/ml-for-kids/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I bought this domain, at least in part, because of a special offer eukhost ran: 99p for .co.uk domains. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+But I'm not squatting on it... I am actually planning to do something about this. In fact, I'm sort of hoping that now I've invested real money into this idea, that it might spur me into action.
 
-### Markdown
+In the meantime, you can see what I'm thinking about by looking through some of my blog posts over the last year. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+In "[The skills implications of Cognitive Computing](http://dalelane.co.uk/blog/?p=3299)" I wrote about why I think it's important that we introduce school children to AI and machine learning. 
 
-```markdown
-Syntax highlighted code block
+In "[An introduction to machine learning with Guess Who](http://dalelane.co.uk/blog/?p=3330)" I shared my first attempt at building an educational project to explain ML, and wrote more about why I think we should do this.
 
-# Header 1
-## Header 2
-### Header 3
+In "[Watson Rock, Paper, Scissors](http://dalelane.co.uk/blog/?p=3349)" I shared a game to train an image recognition classifier to recognise hand shapes.
 
-- Bulleted
-- List
+In "[Machine Learning 'Top Trumps'](http://dalelane.co.uk/blog/?p=3442)" I shared a game I made to explain reinforcement learning, together with the source code for it.
 
-1. Numbered
-2. List
+"[Owlbot: Faith's first chatbot](http://dalelane.co.uk/blog/?p=3463)" was about using chatbots as an intro to simple AI.
 
-**Bold** and _Italic_ and `Code` text
+In "[I-Spy (using Watson services from Scratch projects)](http://dalelane.co.uk/blog/?p=3494)" I showed how I think this could work by integrating with Scratch, rather than inventing something completely new.
 
-[Link](url) and ![Image](src)
-```
+As you can see, I've been kicking this idea around for a year now, and sharing my various experiments as I go. I'm more convinced than ever that there is a demand for a general purpose tool that school kids could use to play and experiment with machine learning. I'd like to try and do something about that. And when I do, this is where it'll live.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dalelane/ml-for-kids/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+-- Dale ([@MLforKids](https://twitter.com/MLforKids))
