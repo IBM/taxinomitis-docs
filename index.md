@@ -1,6 +1,6 @@
 # Nothing to see here... yet
 
-I bought this domain, at least in part, because of a special offer eukhost ran: 99p for .co.uk domains. 
+I bought this domain, at least in part, because of a special offer eukhost ran: [99p for .co.uk domains](https://twitter.com/eUKhostLtd/status/852551993587507200). 
 
 But I'm not squatting on it... I am actually planning to do something about this. In fact, I'm sort of hoping that now I've invested real money into this idea, that it might spur me into action.
 
