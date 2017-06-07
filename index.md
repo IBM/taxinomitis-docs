@@ -2,7 +2,9 @@
 
 This is what I've got working so far. It's still very rough, but I've got some bits working, and it sort of shows where I'm going with this.
 
-[![demo video from YouTube](https://user-images.githubusercontent.com/1444788/26900541-755a4168-4bca-11e7-85e4-028697320b9a.png)](https://youtu.be/P4jx5gYPcC0)
+_Click on the screenshot below to link to a short video demo on YouTube._
+
+[![click for the demo video from YouTube](https://user-images.githubusercontent.com/1444788/26900541-755a4168-4bca-11e7-85e4-028697320b9a.png)](https://youtu.be/P4jx5gYPcC0)
 
 ---
 
