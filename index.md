@@ -10,6 +10,8 @@ _Click on the screenshot below to link to a short video demo on YouTube._
 
 [![click for the demo video from YouTube](https://user-images.githubusercontent.com/1444788/27183764-b52d5498-51d7-11e7-9a7a-dc8e6ebf46bd.png)](https://youtu.be/ajR1_anSv7k)
 
+---
+
 # Update (7 June 2017)
 
 This is what I've got working so far. It's still very rough, but I've got some bits working, and it sort of shows where I'm going with this.
