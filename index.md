@@ -1,6 +1,6 @@
 # Update (18 June 2017)
 
-A few worksheets might be a good way to explain how the tool works. I've started a collection at https://github.com/dalelane/ml-for-kids/tree/master/worksheets
+A few worksheets might be a good way to explain how the tool works. I've started a collection at [github.com/dalelane/ml-for-kids/tree/master/worksheets](https://github.com/dalelane/ml-for-kids/tree/master/worksheets)
 
 # Update (15 June 2017)
 
