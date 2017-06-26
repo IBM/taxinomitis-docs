@@ -1,3 +1,11 @@
+# Update (26 June 2017)
+
+A lot of the work in the last week was under the covers, but there were some UI improvements worth sharing. 
+
+_Click on the screenshot below to link to a short video demo on YouTube._
+
+[![click for the demo video on YouTube](https://user-images.githubusercontent.com/1444788/27547615-724cedf4-5a8e-11e7-904b-c6e16962bd68.png)](https://youtu.be/VA4dFPt0sps)
+
 # Update (18 June 2017)
 
 A few worksheets might be a good way to explain how the tool works. I've started a collection at [github.com/dalelane/ml-for-kids/tree/master/worksheets](https://github.com/dalelane/ml-for-kids/tree/master/worksheets)
