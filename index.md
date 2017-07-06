@@ -1,6 +1,6 @@
-# Update (4 July 2017)
+# Update (6 July 2017)
 
-I presented the idea behind this project at a summer school for teachers. My [slides are on Slideshare](https://www.slideshare.net/dalelane/introducing-machine-learning-to-kids) but I'll add a write-up with some speaker notes soon.
+I presented the idea behind this project at a summer school for teachers. My [slides are on Slideshare](https://www.slideshare.net/dalelane/introducing-machine-learning-to-kids) and I've got [speaker notes at dalelane.co.uk/blog](http://dalelane.co.uk/blog/?p=3513).
 
 
 # Update (3 July 2017)
